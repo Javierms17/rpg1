@@ -1,0 +1,35 @@
+# Carpetas generadas por Unity (no versionar)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Archivos de IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Archivos de build de Android/iOS
+*.apk
+*.aab
+*.ipa
+*.unitypackage
+*.app
+
+# Crashlytics
+crashlytics-build.properties
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
